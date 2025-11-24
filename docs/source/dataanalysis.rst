@@ -6,24 +6,11 @@ Data Analysis
 
 Data Analysis
 
-Pre-Processing
+Bayesian Methods
 --------------
 
-Synchronization
-~~~~~~~~~~~~~~~
-We carry out the temporal alignment with **Soft-Sync** and **Hard-Sync**. 
+Data Driven Methods
+--------------
 
-
-
-
-Calibration
-~~~~~~~~~~~
-
-
-
-
-
-Coordinate Transform
-~~~~~~~~~~~~~~~~~~~~
 
 

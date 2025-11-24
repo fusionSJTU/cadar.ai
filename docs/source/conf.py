@@ -3,10 +3,10 @@
 # -- Project information
 
 project = 'Smart Data Center'
-copyright = 'SSFatSJTU'
+copyright = 'Smart Sensor Fusion Laboratory'
 
 
-author = 'SSFatSJTU'
+author = 'Smart Sensor Fusion Laboratory'
 
 release = '0.1'
 version = '0.0'
