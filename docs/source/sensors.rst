@@ -1,5 +1,5 @@
 Sensor Configuration
-===================
+====================
 
 One of the major aspects for 4D autonomous radar sensing systems is the data acquisition and fusion platform for autonomous vehicles. An autonomous electrical vehicle with the sensor configuration as shown in :ref:`sensor-setup` is used and will be testing at the Minhang campus of Shanghai Jiaotong University. 
 
@@ -17,7 +17,7 @@ Data Scenarios
 --------------
 
 Scenario SJTU Minhang Campus
-********
+****************************
 For the Fusion dataset, we plan to conduct initial data collection at the Minhang campus of Shanghai Jiaotong University, as refer to :ref:`scene-SJTU`. We will divide the school into several key driving areas, where data collection will be conducted.
 
 We will expand to a wider range of scenarios after obtaining permission from the relevant authorities.
@@ -31,7 +31,7 @@ We will expand to a wider range of scenarios after obtaining permission from the
 
 
 Scene Airport
-********
+****************************
 to be supplemented
 
     .. _scene-airport:
@@ -103,6 +103,7 @@ Camera
 
 We use SenSing Intelligence's 8-channel 8-megapixel YUV camera to collect RGB data, and hard-synchronize the camera data through the GMSL board, 
 where four cameras are wide-angle 120-degree cameras, and four are 60-degree cameras, which are capable of capturing 360-degree images around the bodywork without any dead angle.
+
     .. _sensor-camera:
 
     .. figure:: figures/SensorCamera.png
@@ -139,9 +140,3 @@ to be supplemented
 
    This project is a joint effort from **Smart Sensor Fusion Laboratory and AI Department at SJTU**.
 
-----------------------------------------------------------------------------------------------------
-
-.. autosummary::
-   :toctree: generated
-
-   Sensor Configuration

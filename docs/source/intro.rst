@@ -1,10 +1,6 @@
 Introduction
 ===================
 
-.. autosummary::
-   :toctree: generated
-
-   Introduction
 
 
 .. admonition:: Backgroud & Mission
@@ -53,6 +49,7 @@ Introduction
             <div style="text-align: center;">
             Fig. 02: The visualizer of FOOD
          </div>
+
 -------------------------------------------------------------------------------------------------------------
 
 .. _Smart Sensor Fusion Laboratory: https://fusion.sjtu.edu.cn

@@ -115,13 +115,3 @@ Based on these Usecase Design, we are able to give UI Design Based on Figma in a
 You can view the detailed Figma Design in `Figma Design <https://www.figma.com/design/yoqIpLqfLp3QvS3jPIKRTJ/Data-Center-1080P?node-id=0%3A1&t=8ba7JNrWjzykwSbF-1>`_.
 
 
-.. note::
-
-   This project is a joint effort from **Smart Sensor Fusion Laboratory and AI Department at SJTU**.
-
-----------------------------------------------------------------------------------------------------
-
-.. autosummary::
-   :toctree: generated
-
-   Cloud Data Center
