@@ -1,8 +1,5 @@
 Contributing
 ============
-.. autosummary::
-   :toctree: generated
-
 
 .. admonition:: Dr. Ting Yuan
    
