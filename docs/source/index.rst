@@ -13,17 +13,28 @@ The `Fusion-Oriented Open Dataset (FOOD)`_ is a next-generation fusion-oriented 
 
 As the first dataset built upon a **fusion-oriented architecture**, FOOD is designed to empower the future of autonomous systems. It serves as a comprehensive validation platform, providing robust data support for multi-source information fusion across all levels, stages, and methodologies. By bridging the gap between theoretical research and industrial application, FOOD accelerates the evolution of next-generation autonomous intelligent agents.
 
-.. The Smart Data Center of `Smart Sensor Fusion Laboratory`_ at `Shanghai Jiao Tong University`_ (SDC of `SSF`_ at `SJTU`_) presents a fusion center featuring specially 4D autonomotive Radar perception systems. Moverover, the SDC provides a set of tools for data analysis and algorithm test, as well as a metrics framework for performance evaluation and functionality assessment.
 
 
-    .. _sensor-configuration:
 
-    .. figure:: figures/figSensorConfigSystem.png
+
+   .. raw:: html
+
+         <div style="text-align: center;">
+            <video width="600" controls>
+               <source src="_static/videos/mc_visualizer_1min.mp4" type="video/mp4">
+               Your browser does not support the video tag.
+            </video>
+            <div style="text-align: center;">
+            Fig. 02: The visualizer of FOOD
+         </div>
+
+..    .. _mc_visualizer:
+
+..    .. figure:: figures/mc_visualizer_1.png
         :align: center
-        :alt: Sensor Configuration
+        :alt: The UI/UX of FOOD 
 
-        Fig. 02: The Sensor System
-
+..        Fig. 02: The visualizer of FOOD
 
 .. .. note::
 
@@ -41,7 +52,7 @@ Contents
    Sensor Setup <sensors>
    Data Analysis <dataanalysis>
    Use Case Design <usecases>
-   Cloud Data Center <clouddc>
+   Smart Data Center <sdc>
    Component Test <components>
    Metrics Framework <metrics>
    How to Use <usage> 
