@@ -37,7 +37,7 @@ Timeline
       :align: center
       :alt: group-photo
 
-      Fig. 01: Recent Group 
+      Fig. 02: Recent Group 
 
    .. admonition:: Related Videos
 
@@ -49,7 +49,7 @@ Timeline
                Your browser does not support the video tag.
             </video>
             <div style="text-align: center;">
-            Fig. 02: Vehicle display
+            Fig. 03: Vehicle display
          </div>
 
 .. admonition:: 22nd July 2024
@@ -63,7 +63,7 @@ Timeline
       :align: center
       :alt: History_assemble
 
-      Fig. 03: Vehicle Assembly
+      Fig. 04: Vehicle Assembly
 
 .. note::
 
