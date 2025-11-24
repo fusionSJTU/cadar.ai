@@ -136,7 +136,4 @@ to be supplemented
 
         Fig. 11: IPC
 
-.. note::
-
-   This project is a joint effort from **Smart Sensor Fusion Laboratory and AI Department at SJTU**.
 

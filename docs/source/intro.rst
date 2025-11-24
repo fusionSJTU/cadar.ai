@@ -16,7 +16,7 @@ Introduction
 
    * **Sensor-Agnostic Adaptability**: Thanks to this unified design, the dataset possesses inherent universality. It is capable of adapting to virtually all sensor types (Lidar, Radar, Camera, etc.) within a consistent framework. This allows researchers to focus on algorithm design rather than data parsing and format conversion.
 
-   * **Methodological Inclusivity**: The unified architecture naturally facilitates fusion across all layers. By standardizing data at the fundamental level, FOOD supports multi-level fusion algorithms more efficiently and intuitively than datasets relying on loose coupling of raw logs.
+   * **Methodological Inclusivity**: The unified architecture naturally facilitates fusion across all layers. By standardizing data at the fundamental level, FOOD supports multi-level fusion algorithms more efficiently and intuitively than datasets relying on loose coupling of raw data.
 
 .. .. admonition:: Goals
 
@@ -47,7 +47,7 @@ Introduction
                Your browser does not support the video tag.
             </video>
             <div style="text-align: center;">
-            Fig. 02: The visualizer of FOOD
+            Fig. 02: The Visualizer of FOOD
          </div>
 
 -------------------------------------------------------------------------------------------------------------

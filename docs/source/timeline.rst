@@ -65,8 +65,4 @@ Timeline
 
       Fig. 04: Vehicle Assembly
 
-.. note::
-
-   This project is a joint effort from **Smart Sensor Fusion Laboratory and AI Department at SJTU**.
-
 
