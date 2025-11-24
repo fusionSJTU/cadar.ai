@@ -1,13 +1,13 @@
 Welcome to FOOD!
 ===================================
+.. admonition:: CSIF Workshop on Information Fusion for Autonomous Systems, Nov.16. 2025
 
     .. _CSIF-WorkShop-2025:
 
     .. figure:: figures/CSIF_Workshop_2025.jpg
         :align: center
         :alt: CSIF Workshop on Information Fusion for Autonomous Systems, Nov.16. 2025
-        
-        Fig. 01: CSIF Workshop on Information Fusion for Autonomous Systems, Nov.16. 2025
+         
 
 The `Fusion-Oriented Open Dataset (FOOD)`_ is a next-generation fusion-oriented dataset platform initiated by `ISIF`_ and `CSIF`_, and developed by the `Smart Sensor Fusion Laboratory`_.
 

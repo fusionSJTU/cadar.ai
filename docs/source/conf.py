@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'Smart Data Center'
+project = 'FOOD'
 copyright = 'Smart Sensor Fusion Laboratory'
 
 

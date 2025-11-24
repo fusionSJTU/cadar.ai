@@ -13,6 +13,7 @@ Introduction
 
 
 .. admonition:: Key Characteristics 
+
    To support the evolution of next-generation intelligent agents, FOOD provides a robust verification platform with full-spectrum coverage:
 
    * **Unified Data Representation**: Distinct from traditional datasets that maintain isolated data sturcture for different sensors, FOOD abstracts heterogeneous sensor data into a standardized, fusion-oriented representation. This architectural design breaks down the barriers between modalities, significantly reducing the complexity of multi-source alignment and processing.
@@ -44,13 +45,14 @@ Introduction
 
    .. raw:: html
 
-      <div style="text-align: center;">
-          <video width="600" controls>
-            <source src="_static/videos/car_running.mp4" type="video/mp4">
-            Your browser does not support the video tag.
-          </video>
-      </div>
-
+         <div style="text-align: center;">
+            <video width="600" controls>
+               <source src="_static/videos/mc_visualizer_1min.mp4" type="video/mp4">
+               Your browser does not support the video tag.
+            </video>
+            <div style="text-align: center;">
+            Fig. 02: The visualizer of FOOD
+         </div>
 -------------------------------------------------------------------------------------------------------------
 
 .. _Smart Sensor Fusion Laboratory: https://fusion.sjtu.edu.cn
