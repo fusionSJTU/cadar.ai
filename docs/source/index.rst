@@ -14,9 +14,6 @@ The `Fusion-Oriented Open Dataset (FOOD)`_ is a next-generation fusion-oriented 
 As the first dataset built upon a **fusion-oriented architecture**, FOOD is designed to empower the future of autonomous systems. It serves as a comprehensive validation platform, providing robust data support for multi-source information fusion across all levels, stages, and methodologies. By bridging the gap between theoretical research and industrial application, FOOD accelerates the evolution of next-generation autonomous intelligent agents.
 
 
-
-
-
    .. raw:: html
 
          <div style="text-align: center;">
@@ -28,13 +25,13 @@ As the first dataset built upon a **fusion-oriented architecture**, FOOD is desi
             Fig. 02: The visualizer of FOOD
          </div>
 
-..    .. _mc_visualizer:
-
-..    .. figure:: figures/mc_visualizer_1.png
+   .. _System_Architecture:
+   .. figure:: figures/figSensorConfigSystem.png
         :align: center
-        :alt: The UI/UX of FOOD 
+        :alt: Sensor Configuration
 
-..        Fig. 02: The visualizer of FOOD
+        Fig. 03: The Sensor System
+
 
 .. .. note::
 
@@ -52,7 +49,7 @@ Contents
    Sensor Setup <sensors>
    Data Analysis <dataanalysis>
    Use Case Design <usecases>
-   Smart Data Center <sdc>
+   Smart Data Center <clouddc>
    Component Test <components>
    Metrics Framework <metrics>
    How to Use <usage> 
