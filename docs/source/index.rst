@@ -26,13 +26,13 @@ As the first dataset built upon a **fusion-oriented architecture**, FOOD is desi
             Fig. 02: The visualizer of FOOD
          </div>
 
-..    .. _mc_visualizer:
-
-..    .. figure:: figures/mc_visualizer_1.png
+   .. _System_Architecture:
+   .. figure:: figures/figSensorConfigSystem.png
         :align: center
-        :alt: The UI/UX of FOOD
+        :alt: Sensor Configuration
 
-..        Fig. 02: The visualizer of FOOD
+        Fig. 03: The Sensor System
+
 
 .. .. note::
 
@@ -50,7 +50,7 @@ Contents
    Sensor Setup <sensors>
    Data Analysis <dataanalysis>
    Use Case Design <usecases>
-   Smart Data Center <sdc>
+   Smart Data Center <clouddc>
    SMART FOOD Visualizer <mc_visualizer>
    Component Test <components>
    Metrics Framework <metrics>

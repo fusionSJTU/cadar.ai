@@ -4,7 +4,7 @@ Cloud Data Center
 System Architecture
 -------------------
 
-The system is organized into three primary logical layers: the **Control & Access Layer**, the **Core Data Services Layer**, and the **Infrastructure Layer**. It facilitates a closed-loop workflow from vehicle-side data acquisition to cloud-side storage, management, and visualization.
+The system is organized into three primary logical layers: the **Access Layer**, the **Core Data Services Layer**, and the **Infrastructure Layer**. It facilitates a closed-loop workflow from vehicle-side data acquisition to cloud-side storage, management, and visualization.
 
 
 1. Access Layer
