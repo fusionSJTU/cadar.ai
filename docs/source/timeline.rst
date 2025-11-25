@@ -16,6 +16,15 @@ Timeline
 
         Fig. 01: CSIF Workshop on Information Fusion for Autonomous Systems, Nov.16. 2025
 
+.. admonition:: 14th November 2025
+
+   We made one visualizer for the FOOD, providing one platform for data visualization and analysis.
+
+   .. figure:: figures/mc_visualizer_1.png
+      :align: center
+      :alt: MC Visualizer For FOOD
+
+      Fig. 02: SMART FOOD Visualizer
 
 .. admonition:: May 2025
 
@@ -37,7 +46,7 @@ Timeline
       :align: center
       :alt: group-photo
 
-      Fig. 02: Recent Group
+      Fig. 03: Recent Group
 
    .. admonition:: Related Videos
 
@@ -49,7 +58,7 @@ Timeline
                Your browser does not support the video tag.
             </video>
             <div style="text-align: center;">
-            Fig. 03: Vehicle display
+            Fig. 04: Vehicle display
          </div>
 
 .. admonition:: 22nd July 2024
@@ -63,14 +72,5 @@ Timeline
       :align: center
       :alt: History_assemble
 
-      Fig. 04: Vehicle Assembly
+      Fig. 05: Vehicle Assembly
 
-.. admonition:: 14th November 2025
-
-   We made one visualizer for the FOOD, providing one platform for data visualization and analysis.
-
-   .. figure:: figures/mc_visualizer_1.png
-      :align: center
-      :alt: MC Visualizer For FOOD
-
-      Fig. 05: SMART FOOD Visualizer
