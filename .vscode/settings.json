@@ -1,3 +1,5 @@
 {
-    "iis.configDir": ""
+    "iis.configDir": "",
+    "editor.wordWrap": "on",
+    "editor.editContext": true,
 }
