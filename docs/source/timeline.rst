@@ -74,3 +74,38 @@ Timeline
 
       Fig. 05: Vehicle Assembly
 
+.. admonition:: December 2023 — System Optimization
+
+   We focused on feature integration and platform optimization:
+
+   #. Integrated complex configuration modules for Vehicle and Sensor Setup (forms and storage);
+   #. Implemented advanced processing including IMU velocity calculation, H.264 video decoding, and calibration;
+   #. Optimized the 3D visualization platform and merged multi-modal data streams for synchronized playback.
+
+   .. figure:: figures/cloudDCVisualizer.png
+      :align: center
+      :alt: architecture-design
+
+      Fig. 06:  Interface of Cloud Data Center
+
+.. admonition:: November 2023 — End-to-End Data Loop Deployment
+
+   We successfully implemented the full data lifecycle:
+
+   #. Established the flow: Board Collection -> Server Storage -> Frontend Visualization;
+   #. Achieved web-based rendering for Camera and LiDAR point cloud data;
+   #. Standardized data transmission using H5 formatting and implemented GPS/IMU data interfaces.
+
+.. admonition:: October 2023 — Infrastructure & Architecture Design
+
+   We established the foundational system architecture:
+
+   #. Designed backend database schemas and the RawData structure;
+   #. Deployed development infrastructure (NAS & GitLab) and defined the technology stack;
+   #. Completed the preliminary design for the Data Pre-processing Pipeline.
+
+   .. figure:: figures/cloudDCArch.png
+      :align: center
+      :alt: architecture-design
+
+      Fig. 07: System Architecture

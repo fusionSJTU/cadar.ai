@@ -2,8 +2,6 @@ Contributing
 ============
 .. raw:: html
 
-   .. raw:: html
-
    <style>
 
       .rst-content .admonition .align-left,
@@ -44,9 +42,10 @@ Contributing
       :width: 100px
       :alt: Dr. Chao Chen
 
+   - Project Lead
    - Platform architect for functionality components
    - Project management
-   - Software pipeline development 
+   - Software pipeline strategy & design
    - Usecases design
  
 
@@ -57,10 +56,51 @@ Contributing
       :width: 100px
       :alt: Dr. Sivagnanam Sutharsan
 
+   - Technical Lead
+   - Core system architect
+   - Software development
+
+   |
+   |
+
+.. admonition:: Bin Zhang
+
+   .. image:: figures/Photo_ZB.png
+      :align: left
+      :width: 100px
+      :alt: Bin Zhang
+
+   - Product management
+   - Requirements alignment
+   - External liaison
+   
+   |
+   |
+
+
+.. admonition:: Bin Sun
+
+   .. image:: figures/Photo_SunB.png
+      :align: left
+      :width: 100px
+      :alt: Bin Sun
+
    - Software architecture design
    - Software development
 
    |
+
+
+.. admonition:: Linsong Liu
+
+   .. image:: figures/Photo_LLS.png
+      :align: left
+      :width: 100px
+      :alt: Linsong Liu
+
+   - Daily maintenance of data capture vehicle
+   - Software development
+   - Email: linsong.liu@universee.ai
    |
    |
 
@@ -122,13 +162,24 @@ Contributing
    
 .. admonition:: Fei Yu
 
-   - Cloud center architect
+   - Cloud Data Center Architect
+   - Overall project timeline & team coordination
+   - Infrastructure setup (NAS and GitLab)
+   - System architecture design & external communications
 
 .. admonition:: Dr. Liming He
 
+   .. image:: figures/Photo_HLM.png
+      :align: left
+      :width: 100px
+      :alt: Dr. Liming He
+
    - Sensor setup
    - Work environment setup
-   - Coordinating and BD
+   - Coordination & Business Development (BD)
+   
+   |
+   |
 
 .. admonition:: Miguel Mateo Brito Suquinagua
 
@@ -138,7 +189,7 @@ Contributing
       :alt: Miguel Mateo Brito Suquinagua
 
    - Use cases design
-   - SMART FOOD Visualizer development
+   - SMART FOOD Visualizer development (Unity)
    - Email: miguelbritosuq@sjtu.edu.cn
 
    |
@@ -152,7 +203,7 @@ Contributing
       :alt: SOUAMI Hana
 
    - Use cases design
-   - Data Analysis Pipeline design
+   - Data analysis pipeline design
    - Email: HanaSouami@sjtu.edu.cn
 
    |
@@ -165,7 +216,7 @@ Contributing
       :width: 100px
       :alt: Guofei Chen
 
-   - Software development
+   - Smart Data Center software development
    - Email: mengkecgf@sjtu.edu.cn
 
    |
@@ -193,7 +244,61 @@ Contributing
       :width: 100px
       :alt: Shun Ye
 
-   - SMART FOOD Visualizer development
+   .. image:: figures/Photo_YS.png
+      :align: left
+      :width: 100px
+      :alt: Shun Ye
+   
+   - SMART FOOD Visualizer development (Unity)
    - Email: sjtu_ys@sjtu.edu.cn
+
+   |
+
+.. admonition:: Qianguang Zhao
+   
+   .. image:: figures/Photo_ZQG.png
+      :align: left
+      :width: 100px
+      :alt: Qianguang Zhao
+
+   - Cloud Data Center data structure & RawData design
+   - Cloud Data Center pre-processing pipeline
+   - Dataset management logic
+
+   |
+
+.. admonition:: Cha Zou
+
+   - Cloud Data Center UI/UX & web layout design
+   - User account management components
+   - GPS & IMU visualization (Web)
+
+.. admonition:: Pei Wang
+
+   - Cloud Data Center UI/UX implementation
+   - 3D sensor modeling
+   - Visualization integration (IMU & Point Cloud)
+
+.. admonition:: Hanjin Liu
+
+   .. image:: figures/Photo_LHJ.png
+      :align: left
+      :width: 100px
+      :alt: Hanjin Liu
+
+   - Cloud Data Center data upload & caching logic
+   - Hardware debugging
+   - Data collection operations
+   - Email: askyand@foxmail.com
+
+.. admonition:: Quan Cui
+
+   .. image:: figures/Photo_CQ.png
+      :align: left
+      :width: 100px
+      :alt: Quan Cui
+
+   - Cloud Data Center ARM cross-compilation
+   - Data collection performance tuning
 
    |
