@@ -1,6 +1,6 @@
 Welcome to FOOD!
 ===================================
-.. admonition:: CSIF Workshop on Information Fusion for Autonomous Systems, Nov.16. 2025
+.. admonition:: FOOD Supported by CSIF/ISIF, Nov.16. 2025
 
     .. _CSIF-WorkShop-2025:
 
