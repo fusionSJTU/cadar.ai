@@ -243,11 +243,6 @@ Contributing
       :align: left
       :width: 100px
       :alt: Shun Ye
-
-   .. image:: figures/Photo_YS.png
-      :align: left
-      :width: 100px
-      :alt: Shun Ye
    
    - SMART FOOD Visualizer development (Unity)
    - Email: sjtu_ys@sjtu.edu.cn
