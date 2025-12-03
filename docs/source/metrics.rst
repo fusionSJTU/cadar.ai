@@ -21,7 +21,7 @@ This metric is particularly suitable for the FOOD platform because it accounts f
         :width: 80%
         :alt: An exemplary scenario with two objects and two MB set densities. Each Bernoulli density has Gaussian single-object density, and its existence probability is shown next to its Gaussian mean. A desirable metric should be able to answer: 1) what is the distance between each MB density and ground truth object states? and 2) what is the distance between the two MB densities?
 
-        Fig. 01: An exemplary scenario with two objects and two MB set densities. Each Bernoulli density has Gaussian single-object density, and its existence probability is shown next to its Gaussian mean. A desirable metric should be able to answer: 1) what is the distance between each MB density and ground truth object states? and 2) what is the distance between the two MB densities?
+        Fig. 1: An exemplary scenario with two objects and two MB set densities. Each Bernoulli density has Gaussian single-object density, and its existence probability is shown next to its Gaussian mean. A desirable metric should be able to answer: 1) what is the distance between each MB density and ground truth object states? and 2) what is the distance between the two MB densities?
 
 The Definition 
 -----------------
@@ -109,7 +109,6 @@ The probabilistic trajectory GOSPA (PT-GOSPA) metric extends the P-GOSPA framewo
 
 The PT-GOSPA metric incorporates temporal consistency by evaluating the alignment of estimated trajectories with ground truth trajectories, considering both spatial accuracy and uncertainty over time. This allows for a more comprehensive assessment of tracking performance, capturing not only instantaneous errors but also the ability to maintain accurate tracks across multiple frames.
 
-   .. _metrics_pt_gospa_mb_density:
    .. figure:: figures/TPGOSPA_example.png
         :align: center
         :width: 80%
@@ -125,7 +124,7 @@ The PT-GOSPA metric incorporates temporal consistency by evaluating the alignmen
         set of true trajectories? and 2) what is the distance between the two sets of
         sequences of Bernoulli densities?
 
-        Fig. 02: An exemplary scenario with a single ground truth trajectory and
+        Fig. 3: An exemplary scenario with a single ground truth trajectory and
         two sets of trajectory estimates, where each trajectory estimate is a sequence
         of Bernoulli densities. Each Bernoulli density has Gaussian single object
         density, and its existence probability is shown next to its Gaussian mean.
