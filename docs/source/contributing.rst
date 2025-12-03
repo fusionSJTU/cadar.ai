@@ -48,7 +48,6 @@ Contributing
    - Software pipeline strategy & design
    - Usecases design
  
-
 .. admonition:: Dr. Sivagnanam Sutharsan
 
    .. image:: figures/Photo_Suthar.png
@@ -60,9 +59,6 @@ Contributing
    - Core system architect
    - Software development
 
-   |
-   |
-
 .. admonition:: Bin Zhang
 
    .. image:: figures/Photo_ZB.png
@@ -73,10 +69,6 @@ Contributing
    - Product management
    - Requirements alignment
    - External liaison
-   
-   |
-   |
-
 
 .. admonition:: Bin Sun
 
@@ -88,8 +80,15 @@ Contributing
    - Software architecture design
    - Software development
 
-   |
+.. admonition:: Dr. Yuxuan Xia
 
+   .. image:: figures/Photo_YX.png
+      :align: left
+      :width: 100px
+      :alt: Dr. Yuxuan Xia
+
+   - Algorithm development
+   - Metrics framework development
 
 .. admonition:: Linsong Liu
 
@@ -101,8 +100,6 @@ Contributing
    - Daily maintenance of data capture vehicle
    - Software development
    - Email: linsong.liu@universee.ai
-   |
-   |
 
 .. admonition:: Steven Zhang
 

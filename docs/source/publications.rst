@@ -7,9 +7,14 @@ Papers
 ~~~~~~~~~~~~~~~~~~~
 .. _pgospa_paper_ref:
 
-**[1]**. Y. Xia, ÁF García-Fernández, J. Karlsson, KC Chang, T. Yuan, L. Svensson, "Probabilistic GOSPA: A metric for performance evaluation of multi-object filters with uncertainties", IEEE Transactions on Aerospace and Electronic Systems, 2025.
+**[1]**. Y. Xia, ÁF García-Fernández, J. Karlsson, KC. Chang, T. Yuan, L. Svensson, "Probabilistic GOSPA: A metric for performance evaluation of multi-object filters with uncertainties", IEEE Transactions on Aerospace and Electronic Systems, 2025.
 
-**[2]**. X. Chen, KC Chang, T. Yuan, "An Entropy-Based Targetless Real-Time Radar-Lidar Point Cloud Alignment System for Smart Sensor Fusion", 2025 28th International Conference on Information Fusion (FUSION), 2025
+**[2]**. Y. Xia, ÁF García-Fernández, J. Karlsson, Y. Ge, L. Svensson, T. Yuan, "Probabilistic trajectory GOSPA: A metric for uncertainty-aware multi-object tracking performance evaluation.", International Conference on Multisensor Fusion and Integration for Intelligent Systems (MFI), 2025
+
+**[3]**. A. Wärnsäter, Y. Xia, T. Yuan, J. Karlsson, "Efficient approximation of the trajectory GOSPA metric via graph-structured optimal transport", IEEE Radar Conference (RadarConf25), 2025.
+
+**[4]**. X. Chen, KC. Chang, T. Yuan, "An Entropy-Based Targetless Real-time Radar-Lidar point cloud alignment system for smart sensor fusion", 28th International Conference on Information Fusion (FUSION), 2025
+
 
 
 Patents
