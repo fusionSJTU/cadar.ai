@@ -35,6 +35,9 @@ Contributing
    - Metrics framework development
    - VVP and SUT design
 
+   |
+   |
+
 .. admonition:: Dr. Chao Chen
 
    .. image:: figures/Photo_CC.png
@@ -47,7 +50,10 @@ Contributing
    - Project management
    - Software pipeline strategy & design
    - Usecases design
- 
+
+   |
+   | 
+
 .. admonition:: Dr. Sivagnanam Sutharsan
 
    .. image:: figures/Photo_Suthar.png
@@ -58,6 +64,9 @@ Contributing
    - Technical Lead
    - Core system architect
    - Software development
+
+   |
+   |
 
 .. admonition:: Bin Zhang
 
@@ -70,6 +79,9 @@ Contributing
    - Requirements alignment
    - External liaison
 
+   |
+   |
+
 .. admonition:: Bin Sun
 
    .. image:: figures/Photo_SunB.png
@@ -79,6 +91,9 @@ Contributing
 
    - Software architecture design
    - Software development
+
+   |
+   |
 
 .. admonition:: Dr. Yuxuan Xia
 
@@ -90,6 +105,9 @@ Contributing
    - Algorithm development
    - Metrics framework development
 
+   |
+   |
+
 .. admonition:: Linsong Liu
 
    .. image:: figures/Photo_LLS.png
@@ -100,6 +118,9 @@ Contributing
    - Daily maintenance of data capture vehicle
    - Software development
    - Email: linsong.liu@universee.ai
+
+   |
+   |
 
 .. admonition:: Steven Zhang
 
@@ -115,6 +136,8 @@ Contributing
    - Usecases design
    - Email: steven_zhang@sjtu.edu.cn
 
+   |
+   |
 
 .. admonition:: Zitai XuYang
 
@@ -130,6 +153,8 @@ Contributing
    - Usecases design
    - Email: Zero_XYZT@sjtu.edu.cn
 
+   |
+   |
 
 .. admonition:: Xiaojun Chen
 
@@ -143,6 +168,9 @@ Contributing
    - Software development
    - Use cases design
    - Email: solairechen@sjtu.edu.cn
+
+   |
+   |
 
 .. admonition:: Dr. Wenqi Cao
 
