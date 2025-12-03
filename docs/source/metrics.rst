@@ -110,7 +110,7 @@ The probabilistic trajectory GOSPA (PT-GOSPA) metric extends the P-GOSPA framewo
 The PT-GOSPA metric incorporates temporal consistency by evaluating the alignment of estimated trajectories with ground truth trajectories, considering both spatial accuracy and uncertainty over time. This allows for a more comprehensive assessment of tracking performance, capturing not only instantaneous errors but also the ability to maintain accurate tracks across multiple frames.
 
    .. _metrics_pt_gospa_mb_density:
-   .. figure:: figures/PTGOSPA_example.png
+   .. figure:: figures/TPGOSPA_example.png
         :align: center
         :width: 80%
         :alt: An exemplary scenario with a single ground truth trajectory and
