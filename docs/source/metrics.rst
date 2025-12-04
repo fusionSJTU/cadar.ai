@@ -110,31 +110,11 @@ The probabilistic trajectory GOSPA (PT-GOSPA) metric extends the P-GOSPA framewo
 The PT-GOSPA metric incorporates temporal consistency by evaluating the alignment of estimated trajectories with ground truth trajectories, considering both spatial accuracy and uncertainty over time. This allows for a more comprehensive assessment of tracking performance, capturing not only instantaneous errors but also the ability to maintain accurate tracks across multiple frames.
 
    .. figure:: figures/TPGOSPA_example.png
-        :align: center
-        :width: 80%
-        :alt: An exemplary scenario with a single ground truth trajectory and
-        two sets of trajectory estimates, where each trajectory estimate is a sequence
-        of Bernoulli densities. Each Bernoulli density has Gaussian single object
-        density, and its existence probability is shown next to its Gaussian mean.
-        The true trajectory and the trajectory estimate in blue exist at time step 1,
-        2 and 3. The set of trajectory estimates in orange consists of two single
-        trajectory estimates, one exists only at time step 1, and the other exists at
-        time step 2 and 3. A desirable metric should be able to answer: 1) what is
-        the distance between each set of sequences of Bernoulli densities and the
-        set of true trajectories? and 2) what is the distance between the two sets of
-        sequences of Bernoulli densities?
+      :align: center
+      :width: 80%
+      :alt: An exemplary scenario with a single ground truth trajectory and two sets of trajectory estimates, where each trajectory estimate is a sequence of Bernoulli densities. Each Bernoulli density has Gaussian single object density, and its existence probability is shown next to its Gaussian mean. The true trajectory and the trajectory estimate in blue exist at time step 1, 2 and 3. The set of trajectory estimates in orange consists of two single trajectory estimates, one exists only at time step 1, and the other exists at time step 2 and 3. A desirable metric should be able to answer: 1) what is the distance between each set of sequences of Bernoulli densities and the set of true trajectories? and 2) what is the distance between the two sets of sequences of Bernoulli densities?
 
-        Fig. 3: An exemplary scenario with a single ground truth trajectory and
-        two sets of trajectory estimates, where each trajectory estimate is a sequence
-        of Bernoulli densities. Each Bernoulli density has Gaussian single object
-        density, and its existence probability is shown next to its Gaussian mean.
-        The true trajectory and the trajectory estimate in blue exist at time step 1,
-        2 and 3. The set of trajectory estimates in orange consists of two single
-        trajectory estimates, one exists only at time step 1, and the other exists at
-        time step 2 and 3. A desirable metric should be able to answer: 1) what is
-        the distance between each set of sequences of Bernoulli densities and the
-        set of true trajectories? and 2) what is the distance between the two sets of
-        sequences of Bernoulli densities?
+      Fig. 3: An exemplary scenario with a single ground truth trajectory and two sets of trajectory estimates, where each trajectory estimate is a sequence of Bernoulli densities. Each Bernoulli density has Gaussian single object density, and its existence probability is shown next to its Gaussian mean. The true trajectory and the trajectory estimate in blue exist at time step 1, 2 and 3. The set of trajectory estimates in orange consists of two single trajectory estimates, one exists only at time step 1, and the other exists at time step 2 and 3. A desirable metric should be able to answer: 1) what is the distance between each set of sequences of Bernoulli densities and the set of true trajectories? and 2) what is the distance between the two sets of sequences of Bernoulli densities?
 
 Similar to P-GOSPA, PT-GOSPA decomposes the overall error into five interpretable components, including localization error, uncertainty error, missed detection error, false detection error, and track switch error, all evaluated over entire trajectories. This decomposition allows for detailed performance analysis of tracking algorithms, highlighting their strengths and weaknesses in maintaining accurate and confident tracks over time.
 
