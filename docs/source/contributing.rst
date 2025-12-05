@@ -35,8 +35,7 @@ Contributing
    - Metrics framework development
    - VVP and SUT design
 
-   |
-   |
+
 
 .. admonition:: Dr. Chao Chen
 
@@ -51,8 +50,18 @@ Contributing
    - Software pipeline strategy & design
    - Usecases design
 
+
+.. admonition:: Prof. KC Chang
+
+   .. image:: figures/Photo_KC.png
+      :align: left
+      :width: 100px
+      :alt: Prof. KC Chang
+
+   - Technical Lead
+   - Research Supervision
+   - Algorithm Research
    |
-   | 
 
 .. admonition:: Dr. Sivagnanam Sutharsan
 
@@ -67,6 +76,46 @@ Contributing
 
    |
    |
+
+.. admonition:: Dr. Yuxuan Xia
+
+   .. image:: figures/Photo_YX.png
+      :align: left
+      :width: 100px
+      :alt: Dr. Yuxuan Xia
+
+   - Algorithm development
+   - Metrics framework development
+
+   |
+   
+
+.. admonition:: Dr. Juergen Dickmann
+
+   .. image:: figures/Photo_Juergen.png
+      :align: left
+      :width: 100px
+      :alt: Dr. Juergen Dickmann
+
+   - Industry Advisor
+   - Technical Partner
+
+   
+   |
+
+.. admonition:: Prof. Claudio M. Farias
+
+   .. image:: figures/Photo_Claudio.png
+      :align: left
+      :width: 100px
+      :alt: Prof. Claudio M. Farias
+
+   - Liaison for Federal University of Rio de Janeiro
+   - ISIF Support
+
+   |
+   
+
 
 .. admonition:: Bin Zhang
 
@@ -91,19 +140,6 @@ Contributing
 
    - Software architecture design
    - Software development
-
-   |
-   |
-
-.. admonition:: Dr. Yuxuan Xia
-
-   .. image:: figures/Photo_YX.png
-      :align: left
-      :width: 100px
-      :alt: Dr. Yuxuan Xia
-
-   - Algorithm development
-   - Metrics framework development
 
    |
    |
@@ -136,8 +172,6 @@ Contributing
    - Usecases design
    - Email: steven_zhang@sjtu.edu.cn
 
-   |
-   |
 
 .. admonition:: Zitai XuYang
 
@@ -153,8 +187,6 @@ Contributing
    - Usecases design
    - Email: Zero_XYZT@sjtu.edu.cn
 
-   |
-   |
 
 .. admonition:: Xiaojun Chen
 
@@ -169,8 +201,6 @@ Contributing
    - Use cases design
    - Email: solairechen@sjtu.edu.cn
 
-   |
-   |
 
 .. admonition:: Dr. Wenqi Cao
 
