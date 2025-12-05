@@ -84,7 +84,7 @@ Contributing
       - Technical Lead
       - Research Supervision
       - Algorithm Research
-      |
+      
 
    .. admonition:: Dr. Sivagnanam Sutharsan
 
@@ -97,8 +97,8 @@ Contributing
       - Core system architect
       - Software development
 
-      |
-      |
+      
+      
 
    .. admonition:: Dr. Yuxuan Xia
 
@@ -110,7 +110,7 @@ Contributing
       - Algorithm development
       - Metrics framework development
 
-      |
+  
       
 
    .. admonition:: Dr. Juergen Dickmann
@@ -124,7 +124,7 @@ Contributing
       - Technical Partner
 
       
-      |
+
 
    .. admonition:: Prof. Claudio M. Farias
 
@@ -136,7 +136,7 @@ Contributing
       - Liaison for Federal University of Rio de Janeiro
       - ISIF Support
 
-      |
+      
       
 
 
@@ -151,8 +151,8 @@ Contributing
       - Requirements alignment
       - External liaison
 
-      |
-      |
+      
+      
 
    .. admonition:: Bin Sun
 
@@ -164,8 +164,8 @@ Contributing
       - Software architecture design
       - Software development
 
-      |
-      |
+      
+      
 
    .. admonition:: Linsong Liu
 
@@ -178,8 +178,7 @@ Contributing
       - Software development
       - Email: linsong.liu@universee.ai
 
-      |
-      |
+ 
 
    .. admonition:: Steven Zhang
 
@@ -235,8 +234,8 @@ Contributing
       - Cloud center implementation
       - cloud center component design
 
-      |
-      |
+      
+      
       
    .. admonition:: Fei Yu
 
@@ -256,8 +255,8 @@ Contributing
       - Work environment setup
       - Coordination & Business Development (BD)
       
-      |
-      |
+      
+      
 
    .. admonition:: Miguel Mateo Brito Suquinagua
 
@@ -270,8 +269,8 @@ Contributing
       - SMART FOOD Visualizer development (Unity)
       - Email: miguelbritosuq@sjtu.edu.cn
 
-      |
-      |
+      
+      
 
    .. admonition:: SOUAMI Hana
 
@@ -284,8 +283,8 @@ Contributing
       - Data analysis pipeline design
       - Email: HanaSouami@sjtu.edu.cn
 
-      |
-      |
+      
+      
 
    .. admonition:: Guofei Chen
 
@@ -297,9 +296,9 @@ Contributing
       - Smart Data Center software development
       - Email: mengkecgf@sjtu.edu.cn
 
-      |
-      |
-      |
+      
+      
+      
 
    .. admonition:: Hao Li
 
@@ -311,9 +310,9 @@ Contributing
       - Software development
       - Email: whisky_i@sjtu.edu.cn
 
-      |
-      |
-      |
+      
+      
+      
 
    .. admonition:: Shun Ye
 
@@ -325,7 +324,7 @@ Contributing
       - SMART FOOD Visualizer development (Unity)
       - Email: sjtu_ys@sjtu.edu.cn
 
-      |
+      
 
    .. admonition:: Qianguang Zhao
       
@@ -338,7 +337,7 @@ Contributing
       - Cloud Center pre-processing pipeline
       - Dataset management logic
 
-      |
+      
 
    .. admonition:: Cha Zou
 
@@ -374,4 +373,4 @@ Contributing
       - Cloud Center ARM cross-compilation
       - Data collection performance tuning
 
-      |
+      

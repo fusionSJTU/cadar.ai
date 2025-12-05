@@ -57,6 +57,7 @@ Contents
    Contributing <contributing>
    Achievements <achievements>
    Publications <publications>
+   Version History <version>
    License <license>
 
 ----------------------------------------------------------------------------------------------------
