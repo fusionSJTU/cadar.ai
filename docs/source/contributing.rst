@@ -3,12 +3,26 @@ Contributing
 .. raw:: html
 
    <style>
+      /* 定义网格容器：双列布局 */
+      .team-grid {
+          display: grid;
+          grid-template-columns: repeat(2, 1fr); /* 强制两列，每列等宽 */
+          gap: 20px; /* 列和行之间的间距 */
+      }
 
+      /* 针对小屏幕（如手机）自动变为单列，保证可读性 */
+      @media (max-width: 768px) {
+          .team-grid {
+              grid-template-columns: 1fr;
+          }
+      }
+
+      /* 你原本的图片样式保持不变 */
       .rst-content .admonition .align-left,
       .rst-content .admonition img.align-left {
           width: 100px !important;
           margin-left: 10px !important;
-          margin-right: 40px !important;
+          margin-right: 20px !important; /*稍微调小右边距以适应双列*/
           margin-bottom: 10px !important;
           float: left !important;
       }
@@ -16,339 +30,348 @@ Contributing
       .rst-content .admonition ul {
           overflow: hidden !important; 
           padding-left: 0 !important;
+          list-style-position: inside; /* 列表符号放里面防止溢出 */
       }
       
       .rst-content .admonition p {
           overflow: hidden !important;
       }
+
+      /* 统一每个卡片的高度，看起来更整齐 */
+      .rst-content .team-grid .admonition {
+          height: 100%; 
+          margin-bottom: 0 !important;
+      }
    </style>
 
-.. admonition:: Dr. Ting Yuan
+.. container:: team-grid
 
-   .. image:: figures/Photo_Ting.png
-      :align: left
-      :width: 100px
-      :alt: Dr. Ting Yuan
+   .. admonition:: Dr. Ting Yuan
 
-   - System architect
-   - Sensor configuration selection
-   - Metrics framework development
-   - VVP and SUT design
+      .. image:: figures/Photo_Ting.png
+         :align: left
+         :width: 100px
+         :alt: Dr. Ting Yuan
 
+      - System architect
+      - Sensor configuration selection
+      - Metrics framework development
+      - VVP and SUT design
 
 
-.. admonition:: Dr. Chao Chen
 
-   .. image:: figures/Photo_CC.png
-      :align: left
-      :width: 100px
-      :alt: Dr. Chao Chen
+   .. admonition:: Dr. Chao Chen
 
-   - Project Lead
-   - Platform architect for functionality components
-   - Project management
-   - Software pipeline strategy & design
-   - Usecases design
+      .. image:: figures/Photo_CC.png
+         :align: left
+         :width: 100px
+         :alt: Dr. Chao Chen
 
+      - Project Lead
+      - Platform architect for functionality components
+      - Project management
+      - Software pipeline strategy & design
+      - Usecases design
 
-.. admonition:: Prof. KC Chang
 
-   .. image:: figures/Photo_KC.png
-      :align: left
-      :width: 100px
-      :alt: Prof. KC Chang
+   .. admonition:: Prof. KC Chang
 
-   - Technical Lead
-   - Research Supervision
-   - Algorithm Research
-   |
+      .. image:: figures/Photo_KC.png
+         :align: left
+         :width: 100px
+         :alt: Prof. KC Chang
 
-.. admonition:: Dr. Sivagnanam Sutharsan
+      - Technical Lead
+      - Research Supervision
+      - Algorithm Research
+      |
 
-   .. image:: figures/Photo_Suthar.png
-      :align: left
-      :width: 100px
-      :alt: Dr. Sivagnanam Sutharsan
+   .. admonition:: Dr. Sivagnanam Sutharsan
 
-   - Technical Lead
-   - Core system architect
-   - Software development
+      .. image:: figures/Photo_Suthar.png
+         :align: left
+         :width: 100px
+         :alt: Dr. Sivagnanam Sutharsan
 
-   |
-   |
+      - Technical Lead
+      - Core system architect
+      - Software development
 
-.. admonition:: Dr. Yuxuan Xia
+      |
+      |
 
-   .. image:: figures/Photo_YX.png
-      :align: left
-      :width: 100px
-      :alt: Dr. Yuxuan Xia
+   .. admonition:: Dr. Yuxuan Xia
 
-   - Algorithm development
-   - Metrics framework development
+      .. image:: figures/Photo_YX.png
+         :align: left
+         :width: 100px
+         :alt: Dr. Yuxuan Xia
 
-   |
-   
+      - Algorithm development
+      - Metrics framework development
 
-.. admonition:: Dr. Juergen Dickmann
+      |
+      
 
-   .. image:: figures/Photo_Juergen.png
-      :align: left
-      :width: 100px
-      :alt: Dr. Juergen Dickmann
+   .. admonition:: Dr. Juergen Dickmann
 
-   - Industry Advisor
-   - Technical Partner
+      .. image:: figures/Photo_Juergen.png
+         :align: left
+         :width: 100px
+         :alt: Dr. Juergen Dickmann
 
-   
-   |
+      - Industry Advisor
+      - Technical Partner
 
-.. admonition:: Prof. Claudio M. Farias
+      
+      |
 
-   .. image:: figures/Photo_Claudio.png
-      :align: left
-      :width: 100px
-      :alt: Prof. Claudio M. Farias
+   .. admonition:: Prof. Claudio M. Farias
 
-   - Liaison for Federal University of Rio de Janeiro
-   - ISIF Support
+      .. image:: figures/Photo_Claudio.png
+         :align: left
+         :width: 100px
+         :alt: Prof. Claudio M. Farias
 
-   |
-   
+      - Liaison for Federal University of Rio de Janeiro
+      - ISIF Support
 
+      |
+      
 
-.. admonition:: Bin Zhang
 
-   .. image:: figures/Photo_ZB.png
-      :align: left
-      :width: 100px
-      :alt: Bin Zhang
+   .. admonition:: Bin Zhang
 
-   - Product management
-   - Requirements alignment
-   - External liaison
+      .. image:: figures/Photo_ZB.png
+         :align: left
+         :width: 100px
+         :alt: Bin Zhang
 
-   |
-   |
+      - Product management
+      - Requirements alignment
+      - External liaison
 
-.. admonition:: Bin Sun
+      |
+      |
 
-   .. image:: figures/Photo_SunB.png
-      :align: left
-      :width: 100px
-      :alt: Bin Sun
+   .. admonition:: Bin Sun
 
-   - Software architecture design
-   - Software development
+      .. image:: figures/Photo_SunB.png
+         :align: left
+         :width: 100px
+         :alt: Bin Sun
 
-   |
-   |
+      - Software architecture design
+      - Software development
 
-.. admonition:: Linsong Liu
+      |
+      |
 
-   .. image:: figures/Photo_LLS.png
-      :align: left
-      :width: 100px
-      :alt: Linsong Liu
+   .. admonition:: Linsong Liu
 
-   - Daily maintenance of data capture vehicle
-   - Software development
-   - Email: linsong.liu@universee.ai
+      .. image:: figures/Photo_LLS.png
+         :align: left
+         :width: 100px
+         :alt: Linsong Liu
 
-   |
-   |
+      - Daily maintenance of data capture vehicle
+      - Software development
+      - Email: linsong.liu@universee.ai
 
-.. admonition:: Steven Zhang
+      |
+      |
 
-   .. image:: figures/Photo_Steven.png
-      :align: left
-      :width: 100px
-      :alt: Steven Zhang
+   .. admonition:: Steven Zhang
 
-   - Sensor setup
-   - Lidar system and associated data processing (soft sync., calibration and data storage)
-   - Functional focus: Fusion Map
-   - Work environment setup
-   - Usecases design
-   - Email: steven_zhang@sjtu.edu.cn
+      .. image:: figures/Photo_Steven.png
+         :align: left
+         :width: 100px
+         :alt: Steven Zhang
 
+      - Sensor setup
+      - Lidar system and associated data processing (soft sync., calibration and data storage)
+      - Functional focus: Fusion Map
+      - Work environment setup
+      - Usecases design
+      - Email: steven_zhang@sjtu.edu.cn
 
-.. admonition:: Zitai XuYang
 
-   .. image:: figures/Photo_XYZT.png
-      :align: left
-      :width: 100px
-      :alt: Zitai XuYang
+   .. admonition:: Zitai XuYang
 
-   - Sensor setup and 3D modeling for sensor hub
-   - Camera system and associated data processing (hard sync., calibration and data storage)
-   - Functional focus: LiCam Deep Learning
-   - Work environment setup
-   - Usecases design
-   - Email: Zero_XYZT@sjtu.edu.cn
+      .. image:: figures/Photo_XYZT.png
+         :align: left
+         :width: 100px
+         :alt: Zitai XuYang
 
+      - Sensor setup and 3D modeling for sensor hub
+      - Camera system and associated data processing (hard sync., calibration and data storage)
+      - Functional focus: LiCam Deep Learning
+      - Work environment setup
+      - Usecases design
+      - Email: Zero_XYZT@sjtu.edu.cn
 
-.. admonition:: Xiaojun Chen
 
-   .. image:: figures/Photo_CXJ.png
-      :align: left
-      :width: 100px
-      :alt: Xiaojun Chen
+   .. admonition:: Xiaojun Chen
 
-   - Radar hardware system and associated data processing (soft sync., calibration, and data storage)
-   - Functional focus: RaCam Deep Learning
-   - Software development
-   - Use cases design
-   - Email: solairechen@sjtu.edu.cn
+      .. image:: figures/Photo_CXJ.png
+         :align: left
+         :width: 100px
+         :alt: Xiaojun Chen
 
+      - Radar hardware system and associated data processing (soft sync., calibration, and data storage)
+      - Functional focus: RaCam Deep Learning
+      - Software development
+      - Use cases design
+      - Email: solairechen@sjtu.edu.cn
 
-.. admonition:: Dr. Wenqi Cao
 
-   .. image:: figures/Photo_CWQ.png
-      :align: left
-      :width: 100px
-      :alt: Dr. Wenqi Cao
+   .. admonition:: Dr. Wenqi Cao
 
-   - Cloud center implementation
-   - cloud center component design
+      .. image:: figures/Photo_CWQ.png
+         :align: left
+         :width: 100px
+         :alt: Dr. Wenqi Cao
 
-   |
-   |
-   
-.. admonition:: Fei Yu
+      - Cloud center implementation
+      - cloud center component design
 
-   - Cloud Center Architect
-   - Overall project timeline & team coordination
-   - Infrastructure setup (NAS and GitLab)
-   - System architecture design & external communications
+      |
+      |
+      
+   .. admonition:: Fei Yu
 
-.. admonition:: Dr. Liming He
+      - Cloud Center Architect
+      - Overall project timeline & team coordination
+      - Infrastructure setup (NAS and GitLab)
+      - System architecture design & external communications
 
-   .. image:: figures/Photo_HLM.png
-      :align: left
-      :width: 100px
-      :alt: Dr. Liming He
+   .. admonition:: Dr. Liming He
 
-   - Sensor setup
-   - Work environment setup
-   - Coordination & Business Development (BD)
-   
-   |
-   |
+      .. image:: figures/Photo_HLM.png
+         :align: left
+         :width: 100px
+         :alt: Dr. Liming He
 
-.. admonition:: Miguel Mateo Brito Suquinagua
+      - Sensor setup
+      - Work environment setup
+      - Coordination & Business Development (BD)
+      
+      |
+      |
 
-   .. image:: figures/Photo_Miguel.png
-      :align: left
-      :width: 100px
-      :alt: Miguel Mateo Brito Suquinagua
+   .. admonition:: Miguel Mateo Brito Suquinagua
 
-   - Use cases design
-   - SMART FOOD Visualizer development (Unity)
-   - Email: miguelbritosuq@sjtu.edu.cn
+      .. image:: figures/Photo_Miguel.png
+         :align: left
+         :width: 100px
+         :alt: Miguel Mateo Brito Suquinagua
 
-   |
-   |
+      - Use cases design
+      - SMART FOOD Visualizer development (Unity)
+      - Email: miguelbritosuq@sjtu.edu.cn
 
-.. admonition:: SOUAMI Hana
+      |
+      |
 
-   .. image:: figures/Photo_Hana.png
-      :align: left
-      :width: 100px
-      :alt: SOUAMI Hana
+   .. admonition:: SOUAMI Hana
 
-   - Use cases design
-   - Data analysis pipeline design
-   - Email: HanaSouami@sjtu.edu.cn
+      .. image:: figures/Photo_Hana.png
+         :align: left
+         :width: 100px
+         :alt: SOUAMI Hana
 
-   |
-   |
+      - Use cases design
+      - Data analysis pipeline design
+      - Email: HanaSouami@sjtu.edu.cn
 
-.. admonition:: Guofei Chen
+      |
+      |
 
-   .. image:: figures/Photo_CGF.png
-      :align: left
-      :width: 100px
-      :alt: Guofei Chen
+   .. admonition:: Guofei Chen
 
-   - Smart Data Center software development
-   - Email: mengkecgf@sjtu.edu.cn
+      .. image:: figures/Photo_CGF.png
+         :align: left
+         :width: 100px
+         :alt: Guofei Chen
 
-   |
-   |
-   |
+      - Smart Data Center software development
+      - Email: mengkecgf@sjtu.edu.cn
 
-.. admonition:: Hao Li
+      |
+      |
+      |
 
-   .. image:: figures/Photo_LH.png
-      :align: left
-      :width: 100px
-      :alt: Hao Li
+   .. admonition:: Hao Li
 
-   - Software development
-   - Email: whisky_i@sjtu.edu.cn
+      .. image:: figures/Photo_LH.png
+         :align: left
+         :width: 100px
+         :alt: Hao Li
 
-   |
-   |
-   |
+      - Software development
+      - Email: whisky_i@sjtu.edu.cn
 
-.. admonition:: Shun Ye
+      |
+      |
+      |
 
-   .. image:: figures/Photo_YS.png
-      :align: left
-      :width: 100px
-      :alt: Shun Ye
-   
-   - SMART FOOD Visualizer development (Unity)
-   - Email: sjtu_ys@sjtu.edu.cn
+   .. admonition:: Shun Ye
 
-   |
+      .. image:: figures/Photo_YS.png
+         :align: left
+         :width: 100px
+         :alt: Shun Ye
+      
+      - SMART FOOD Visualizer development (Unity)
+      - Email: sjtu_ys@sjtu.edu.cn
 
-.. admonition:: Qianguang Zhao
-   
-   .. image:: figures/Photo_ZQG.png
-      :align: left
-      :width: 100px
-      :alt: Qianguang Zhao
+      |
 
-   - Cloud Center data structure & RawData design
-   - Cloud Center pre-processing pipeline
-   - Dataset management logic
+   .. admonition:: Qianguang Zhao
+      
+      .. image:: figures/Photo_ZQG.png
+         :align: left
+         :width: 100px
+         :alt: Qianguang Zhao
 
-   |
+      - Cloud Center data structure & RawData design
+      - Cloud Center pre-processing pipeline
+      - Dataset management logic
 
-.. admonition:: Cha Zou
+      |
 
-   - Cloud Center UI/UX & web layout design
-   - User account management components
-   - GPS & IMU visualization (Web)
+   .. admonition:: Cha Zou
 
-.. admonition:: Pei Wang
+      - Cloud Center UI/UX & web layout design
+      - User account management components
+      - GPS & IMU visualization (Web)
 
-   - Cloud Center UI/UX implementation
-   - 3D sensor modeling
-   - Visualization integration (IMU & Point Cloud)
+   .. admonition:: Pei Wang
 
-.. admonition:: Hanjin Liu
+      - Cloud Center UI/UX implementation
+      - 3D sensor modeling
+      - Visualization integration (IMU & Point Cloud)
 
-   .. image:: figures/Photo_LHJ.png
-      :align: left
-      :width: 100px
-      :alt: Hanjin Liu
+   .. admonition:: Hanjin Liu
 
-   - Cloud Center data upload & caching logic
-   - Hardware debugging
-   - Data collection operations
-   - Email: askyand@foxmail.com
+      .. image:: figures/Photo_LHJ.png
+         :align: left
+         :width: 100px
+         :alt: Hanjin Liu
 
-.. admonition:: Quan Cui
+      - Cloud Center data upload & caching logic
+      - Hardware debugging
+      - Data collection operations
+      - Email: askyand@foxmail.com
 
-   .. image:: figures/Photo_CQ.png
-      :align: left
-      :width: 100px
-      :alt: Quan Cui
+   .. admonition:: Quan Cui
 
-   - Cloud Center ARM cross-compilation
-   - Data collection performance tuning
+      .. image:: figures/Photo_CQ.png
+         :align: left
+         :width: 100px
+         :alt: Quan Cui
 
-   |
+      - Cloud Center ARM cross-compilation
+      - Data collection performance tuning
+
+      |
