@@ -86,7 +86,7 @@ Timeline
       :align: center
       :alt: architecture-design
 
-      Fig. 06:  Interface of Cloud Data Center
+      Fig. 06:  Interface of Cloud Center
 
 .. admonition:: November 2023 — End-to-End Data Loop Deployment
 

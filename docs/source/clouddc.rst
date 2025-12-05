@@ -1,4 +1,7 @@
-Cloud Data Center
+Smart Data Center
+=================
+
+Cloud Center
 -----------------
 
 Overview
@@ -7,7 +10,7 @@ Overview
 System Architecture
 ^^^^^^^^^^^^^^^^^^^
 
-The Cloud Data Center architecture is organized into four primary layers: **Presentation Layer**, **Application Layer**, **Domain Layer**, and **Infrastructure Layer**. Each layer serves distinct functions and contains specific services essential for the overall system's operation.
+The Cloud Center architecture is organized into four primary layers: **Presentation Layer**, **Application Layer**, **Domain Layer**, and **Infrastructure Layer**. Each layer serves distinct functions and contains specific services essential for the overall system's operation.
 
 **The Presentation Layer** is responsible for handling interactions between the cloud system and its users. We assume there are two types of users, the project maintainers and the project contributors. The Presentation Layer provides a user interface for project maintainers to manage their projects and for project contributors to access and contribute to the projects. The Presentation Layer also provides an interface for the system administrators to monitor and manage the system.
 and customers who use this system. The Presentation Layer is implemented as a web application that can be accessed through a web browser.
@@ -44,7 +47,7 @@ Components
 
 Data Structure
 ~~~~~~~~~~~~~~
-The Data Strucutruefor Cloud Data Center is rather important because the bandwidth for data transmission is limited. In order to satisfy online preview and labeling information, 
+The Data Strucutruefor Cloud Center is rather important because the bandwidth for data transmission is limited. In order to satisfy online preview and labeling information, 
 it is necessary to compress the data structure. The data structure is designed as follows:
 
 We classify the sensor data with **RadarData,  LidarData, CameraData, LidarData** and **GNSSData**. Each data will be designed suitable for online preview and processing, it is more efficient than compressing raw data. 
@@ -166,4 +169,56 @@ OS serves as the unified storage interface for the system. While currently imple
     
 It communicates via the standard **S3 protocol**, allowing the underlying physical storage to be seamlessly switched between local clusters and public cloud providers (e.g., AWS S3) without affecting the upper-layer application logic.
 
------------------
+
+SMART FOOD Visualizer
+---------------------
+
+As one platform providing multi-sensor data, SMART FOOD has collected and integrated diverse sensor information. We developed the Minecraft Based Visualizer where each data fragment has a corresponding 3D sphere in the interactive 3D scene. Users can click on the sphere to view the data, which includes sensor information, timestamp, and other details. This visualizer allows users to explore and analyze the data in a more intuitive way.
+
+   .. raw:: html
+
+      <div style="text-align: center;">
+         <video width="600" controls>
+            <source src="_static/videos/mc_visualizer_1min.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+         </video>
+         <div style="text-align: center;">
+         Fig. 01: The visualizer of FOOD
+      </div>
+
+After checking the fitness of data fragments and selecting the required data slices, we can get access to them by entering the download page directly.
+
+
+Overview
+~~~~~~~~~
+
+The software contains one overview part and four data introduction parts:
+
+- FOOD Overview
+- Perception Data
+- Pre-Processing
+- Metrics
+- Tags
+
+FOOD Overview
+~~~~~~~~~~~~~
+
+This panel contains an outline for the whole dataset, where it is easy to know the structure of the data. It offered six perspectives: Scene, Use Case, Environment, Sensor, Functionality, Fusion.
+
+Perception Data
+~~~~~~~~~~~~~~~
+
+This window is on the top left of the dashboard, which provides intuitive display for the point cloud data collected. It is easy to make a rough judgment about the suitability of the sample you select.
+
+Pre-Processing
+~~~~~~~~~~~~~~~
+
+In this part, we provide several methods and algorithms (in development) to preprocess the data. It is a place where the effects of newest algorithms can be seen.
+
+Metrics
+~~~~~~~~
+In addition to the results that you can directly observe, this part provides quantitative metrics for the difference between the algorithm results and the ground truth. Each algorithm provided above has corresponding metrics to evaluate its performance.
+
+Tags
+~~~~~~~~
+We provide the structure view for the sample data you select. It shows the properties and metadata associated with each data fragment.
