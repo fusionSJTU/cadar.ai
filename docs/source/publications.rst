@@ -13,8 +13,9 @@ Papers
 
 **[3]**. A. Wärnsäter, Y. Xia, T. Yuan, J. Karlsson, "Efficient approximation of the trajectory GOSPA metric via graph-structured optimal transport", IEEE Radar Conference (RadarConf25), 2025.
 
-**[4]**. X. Chen, KC. Chang, T. Yuan, "An Entropy-Based Targetless Real-time Radar-Lidar point cloud alignment system for smart sensor fusion", 28th International Conference on Information Fusion (FUSION), 2025
+**[4]**. KC. Chang, W. Kuo, Y. Bar-Shalom, C.-Y. Chong, S. Mori, "Primex - Prime-Based Graph Encoding and Extraction for Information Fusion", 28th International Conference on Information Fusion (FUSION), 2025.
 
+**[5]**. X. Chen, KC. Chang, T. Yuan, "An Entropy-Based Targetless Real-time Radar-Lidar point cloud alignment system for smart sensor fusion", 28th International Conference on Information Fusion (FUSION), 2025
 
 
 Patents

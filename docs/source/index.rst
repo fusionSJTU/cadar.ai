@@ -51,11 +51,11 @@ Contents
    Data Analysis <dataanalysis>
    Use Case Design <usecases>
    Smart Data Center <clouddc>
-   SMART FOOD Visualizer <mc_visualizer>
    Component Test <components>
    Metrics Framework <metrics>
    How to Use <usage>
    Contributing <contributing>
+   Achievements <achievements>
    Publications <publications>
    License <license>
 
