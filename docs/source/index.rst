@@ -1,6 +1,6 @@
-Welcome to FOOD!
+Welcome to ISIF/CSIF FOOD!
 ===================================
-.. admonition:: FOOD Supported by CSIF/ISIF, Nov.16. 2025
+.. admonition:: FOOD Supported by ISIF/CSIF, Nov.16. 2025
 
     .. _CSIF-WorkShop-2025:
 
