@@ -8,8 +8,8 @@ copyright = 'Smart Sensor Fusion Laboratory'
 
 author = 'Smart Sensor Fusion Laboratory'
 
-release = '0.1'
-version = '0.0'
+release = '2.01'
+version = '2.01'
 
 
 # -- General configuration
