@@ -187,7 +187,7 @@ Contributing
    
 .. admonition:: Fei Yu
 
-   - Cloud Data Center Architect
+   - Cloud Center Architect
    - Overall project timeline & team coordination
    - Infrastructure setup (NAS and GitLab)
    - System architecture design & external communications
@@ -281,21 +281,21 @@ Contributing
       :width: 100px
       :alt: Qianguang Zhao
 
-   - Cloud Data Center data structure & RawData design
-   - Cloud Data Center pre-processing pipeline
+   - Cloud Center data structure & RawData design
+   - Cloud Center pre-processing pipeline
    - Dataset management logic
 
    |
 
 .. admonition:: Cha Zou
 
-   - Cloud Data Center UI/UX & web layout design
+   - Cloud Center UI/UX & web layout design
    - User account management components
    - GPS & IMU visualization (Web)
 
 .. admonition:: Pei Wang
 
-   - Cloud Data Center UI/UX implementation
+   - Cloud Center UI/UX implementation
    - 3D sensor modeling
    - Visualization integration (IMU & Point Cloud)
 
@@ -306,7 +306,7 @@ Contributing
       :width: 100px
       :alt: Hanjin Liu
 
-   - Cloud Data Center data upload & caching logic
+   - Cloud Center data upload & caching logic
    - Hardware debugging
    - Data collection operations
    - Email: askyand@foxmail.com
@@ -318,7 +318,7 @@ Contributing
       :width: 100px
       :alt: Quan Cui
 
-   - Cloud Data Center ARM cross-compilation
+   - Cloud Center ARM cross-compilation
    - Data collection performance tuning
 
    |

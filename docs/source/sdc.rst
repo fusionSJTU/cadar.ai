@@ -1,4 +1,4 @@
-Cloud Data Center
+Cloud Center
 =================
 
 System Architecture

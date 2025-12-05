@@ -2,7 +2,7 @@
 
 # -- Project information
 
-project = 'FOOD'
+project = 'ISIF/CSIF FOOD'
 copyright = 'Smart Sensor Fusion Laboratory'
 
 
