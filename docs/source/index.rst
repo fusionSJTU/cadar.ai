@@ -57,6 +57,7 @@ Contents
    Contributing <contributing>
    Achievements <achievements>
    Publications <publications>
+   CSIF IF4AS Committee <if4as_committee>
    Version History <version>
    License <license>
 
