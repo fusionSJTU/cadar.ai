@@ -82,7 +82,7 @@ The Special Committee
  
    
    Research Institutes (研究机构): 
-      - `Dr. Yang Wu`_ (吴洋) 
+      - Dr. Yang Wu (吴洋) 
 
    Industry and Investor Representatives (工业界):     
       - `Dr. Ruxin Chen`_ (陈如新 rayz.ai)
@@ -107,8 +107,8 @@ The Special Committee
 .. _Dr. Lance Kaplan: https://scholar.google.com/citations?user=obew8e0AAAAJ&hl=en
 .. _Dr. Kuo-Chu Chang: https://computing.gmu.edu/profiles/kchang
 .. _Dr. Claudio Miceli de Farias: https://br.linkedin.com/in/claudio-miceli-de-farias-012390b
-.. _Dr. Ting Yuan: https://sais.sjtu.edu.cn/faculty/yuanting.html
-.. _Dr. Jianxun Li: https://sais.sjtu.edu.cn/faculty/lijianxun.html
+.. _Dr. Ting Yuan: https://tyuan.readthedocs.io/en/latest/
+.. _Dr. Jianxun Li: https://baike.baidu.com/item/%E6%9D%8E%E5%BB%BA%E5%8B%8B/13480880
 .. _Dr. Fengbao Yang: https://5y.nuc.edu.cn/info/1694/12953.htm
 .. _Dr. Zhi Gao: https://www.rsmip.org/details/84886
 .. _Dr. Bo Jin: https://sse.tongji.edu.cn/info/1212/4659.htm
@@ -118,7 +118,6 @@ The Special Committee
 .. _Dr. Yuxuan Xia: https://scholar.google.com/citations?user=ONkHTSwAAAAJ&hl=en
 .. _Dr. Yanyan Fu: https://faculty.ustb.edu.cn/YanyanHu/zh_CN/index.htm
 .. _Dr. Jiuchao Qian: https://ssse.sjtu.edu.cn/Data/Info/465
-.. _Dr. Yang Wu: https://faculty.csu.edu.cn/wuyang/zh_CN/index.htm
 .. _Dr. Ruxin Chen: https://www.rayz.ai/
 .. _大零号湾: https://qyjt.sjtu.edu.cn/Data/List/cxfw
 .. _小苗创投: https://www.zizhupark.com/innovation/view/70
