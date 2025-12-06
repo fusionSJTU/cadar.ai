@@ -74,12 +74,12 @@ Contributing
       - Usecases design
 
 
-   .. admonition:: Prof. KC Chang
+   .. admonition:: Dr. KC Chang
 
       .. image:: figures/Photo_KC.png
          :align: left
          :width: 100px
-         :alt: Prof. KC Chang
+         :alt: Dr. KC Chang
 
       - Technical Lead
       - Research Supervision
@@ -110,7 +110,18 @@ Contributing
       - Algorithm development
       - Metrics framework development
 
-  
+   .. admonition:: Xiaojun Chen
+
+      .. image:: figures/Photo_CXJ.png
+         :align: left
+         :width: 100px
+         :alt: Xiaojun Chen
+
+      - Radar hardware system and associated data processing (soft sync., calibration, and data storage)
+      - Functional focus: RaCam Deep Learning
+      - Software development
+      - Use cases design
+      - Email: solairechen@sjtu.edu.cn
       
 
    .. admonition:: Dr. Juergen Dickmann
@@ -126,12 +137,12 @@ Contributing
       
 
 
-   .. admonition:: Prof. Claudio M. Farias
+   .. admonition:: Dr. Claudio M. Farias
 
       .. image:: figures/Photo_Claudio.png
          :align: left
          :width: 100px
-         :alt: Prof. Claudio M. Farias
+         :alt: Dr. Claudio M. Farias
 
       - Liaison for Federal University of Rio de Janeiro
       - ISIF Support
@@ -210,18 +221,7 @@ Contributing
       - Email: Zero_XYZT@sjtu.edu.cn
 
 
-   .. admonition:: Xiaojun Chen
 
-      .. image:: figures/Photo_CXJ.png
-         :align: left
-         :width: 100px
-         :alt: Xiaojun Chen
-
-      - Radar hardware system and associated data processing (soft sync., calibration, and data storage)
-      - Functional focus: RaCam Deep Learning
-      - Software development
-      - Use cases design
-      - Email: solairechen@sjtu.edu.cn
 
 
    .. admonition:: Dr. Wenqi Cao
