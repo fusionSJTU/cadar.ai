@@ -3,7 +3,7 @@
 # -- Project information
 
 project = 'ISIF/CSIF FOOD'
-copyright = 'Smart Sensor Fusion Laboratory'
+copyright = 'Smart Sensor Fusion Laboratory | 沪交ICP备20260005'
 
 
 author = 'Smart Sensor Fusion Laboratory'
