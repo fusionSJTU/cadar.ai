@@ -5,7 +5,7 @@ Introduction
 
 .. admonition:: Backgroud & Mission
 
-   The Fusion-Oriented Open Dataset (FOOD) represents a strategic initiative by `ISIF`_ and `CSIF`_ to advance the field of autonomous systems. Developed by the `Smart Sensor Fusion Laboratory`_. The primary mission of FOOD is to construct a foundational data infrastructure explicitly designed for multi-source information fusion. It aims to resolve the scarcity of high-quality, synchronized, and structurally aligned data required for advanced autonomous systems.
+   The Fusion-Oriented Open-Access Data Platform (FOOD) represents a strategic initiative by `ISIF`_ and `CSIF`_ to advance the field of autonomous systems. Developed by the `Smart Sensor Fusion Laboratory`_. The primary mission of FOOD is to construct a foundational data infrastructure explicitly designed for multi-source information fusion. It aims to resolve the scarcity of high-quality, synchronized, and structurally aligned data required for advanced autonomous systems.
 
 
 .. admonition:: Key Characteristics 
@@ -57,7 +57,7 @@ Introduction
 
 .. _ISIF: https://isif.org
 .. _CSIF: https://www.csif.org.cn
-.. _Fusion-Oriented Open Dataset (FOOD): https://sdcsjtu.readthedocs.io/en/latest/index.html
+.. _Fusion-Oriented Open-Access Data Platform (FOOD): https://sdcsjtu.readthedocs.io/en/latest/index.html
 
 
 
