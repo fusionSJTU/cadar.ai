@@ -74,16 +74,7 @@ Contributing
       - Usecases design
 
 
-   .. admonition:: Dr. KC Chang
 
-      .. image:: figures/Photo_KC.png
-         :align: left
-         :width: 100px
-         :alt: Dr. KC Chang
-
-      - Technical Lead
-      - Research Supervision
-      - Algorithm Research
       
 
    .. admonition:: Dr. Sivagnanam Sutharsan
